@@ -1,0 +1,9 @@
+ACTION_REGISTER = "register"
+ACTION_DEREGISTER = "deregister"
+ACTION_MATCH = "match"
+
+ACTIONS = [
+    ACTION_REGISTER,
+    ACTION_DEREGISTER,
+    ACTION_MATCH,
+]
